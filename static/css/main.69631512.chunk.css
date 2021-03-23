@@ -1,0 +1,2 @@
+.todo-wrap{background:#eee;width:500px;margin:50px auto 0}.title{font-size:30px;text-align:center;background-color:salmon;color:#fff;padding:20px 0}.form-wrapper{padding:10px}.todoItem{display:-webkit-flex;display:flex;cursor:pointer;line-height:2.5;text-indent:20px;border-bottom:1px solid #ddd}.remove{color:salmon;opacity:0}.todoItem:hover .remove{opacity:1}.checked{text-decoration:line-through;color:#ccc}.todoText{-webkit-flex:1 1;flex:1 1}
+/*# sourceMappingURL=main.69631512.chunk.css.map */
