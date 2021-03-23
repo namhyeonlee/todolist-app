@@ -1,0 +1,16 @@
+.inputForm {
+
+}
+.inputFrom input{
+    border: 1px solid #ccc;
+}
+.addButton {
+    padding: 5px 10px;
+    background-color: salmon;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 0;
+    font-size: 18px;
+    margin-left: 10px;
+}
